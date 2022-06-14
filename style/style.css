@@ -81,6 +81,10 @@ body {
 
 .about{
     margin: 105px, auto 85px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 105px auto 85px;
 }
 
 
